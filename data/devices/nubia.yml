@@ -283,7 +283,7 @@
     pixel_format: RGBA_8888
     theme: portrait_hdpi
 
-- name: Nubia Z17&Z17mini
+- name: Nubia Z17&Z17mini&Z17minis
   id: NX563J
   codenames:
     - NX563J
@@ -292,6 +292,8 @@
     - nx569j
     - NX569H
     - nx569h
+    - nx589j
+    - NX589J
   architecture: arm64-v8a
 
   block_devs:
